@@ -1,0 +1,13 @@
+.warning{
+    height: 30px;
+    width: 250px;
+    position: absolute;
+    right: 0;
+    top: 8%;
+    background-color: rgb(210, 91, 91);
+    font-size: 1rem;
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+    padding: 3px;
+    border-radius: 5px;
+}
